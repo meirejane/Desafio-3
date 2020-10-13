@@ -19,7 +19,7 @@ IBM 2020
 
 Esse projeto foi desenvolvido utilizando a seguintes tecnologia:
 
-- [json](https://www.json.org/json-pt.htmln/)
+- [json](https://www.json.org/json-en.html/)
 
  Projeto
  O projeto da maratona foi feito com desafios para ver a pessoa que melhor se classificaria para obter pontuações e receber certificados ou prêmios para o melhor classificado.
