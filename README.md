@@ -15,13 +15,13 @@ IBM 2020
   <img alt="Maratona Behind the Code"  width="100%">
 </p>
 
- Tecnologia
+ ## Tecnologia
 
 Esse projeto foi desenvolvido utilizando a seguintes tecnologia:
 
 - [json](https://www.json.org/json-en.html/)
 
- Projeto
+## Projeto
  O projeto da maratona foi feito com desafios para ver a pessoa que melhor se classificaria para obter pontuações e receber certificados ou prêmios para o melhor classificado.
 ---
 
