@@ -1,7 +1,7 @@
 # Desafio-3
 IBM 2020
 
-h1 align="center">
+<h1 align="center">
     <img alt="Maratona Behind the Code" title="Maratona Behind the Code" />
 </h1>
 
@@ -19,7 +19,7 @@ h1 align="center">
 
 Esse projeto foi desenvolvido utilizando a seguintes tecnologia:
 
-- [json]
+- [json](https://www.json.org/json-pt.htmln/)
 
  Projeto
  O projeto da maratona foi feito com desafios para ver a pessoa que melhor se classificaria para obter pontuações e receber certificados ou prêmios para o melhor classificado.
